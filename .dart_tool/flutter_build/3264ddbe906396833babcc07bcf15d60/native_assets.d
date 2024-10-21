@@ -1,0 +1,1 @@
+ D:\\kisan_ws\\supabase_auth_google_login\\.dart_tool\\flutter_build\\3264ddbe906396833babcc07bcf15d60\\native_assets.yaml: 
