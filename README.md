@@ -15,6 +15,9 @@ The development environment is as follows:<br>
 - Engine: Revision 36335019a8<br>
 - Tools: Dart 3.5.3 • DevTools 2.37.3<br>
 
+# Your action after cloning
+on_your_project_root > flutter pub get
+
 <br>
 If you have any inquiries, please contact us at<br>
 info@applgongbang.com.
